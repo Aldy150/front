@@ -109,6 +109,8 @@ const technologies = [
   "Node.js",
   "React Native",
   "Laravel",
+  "PHP",
+  "Python"
 ];
 
 const questions = [
@@ -466,7 +468,7 @@ export default function NosServices() {
         <footer className="border-t border-blue-100">
           <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-5">
             <p className="text-sm text-gray-500">
-              © {new Date().getFullYear()} Fluno
+              © 2026 Fluno
             </p>
 
             <motion.a
